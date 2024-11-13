@@ -10,6 +10,6 @@
 
 ## Game Logic 🤔
 "Features that must be implemented"
-![Game Logic](https://github.com/OlehRiznychuk/Pig-Game/blob/main/PigGame/Game%20logic2.png) 
+![Game Logic](https://github.com/OlehRiznychuk/PigGame/blob/main/Game%20logic2.png)
 ## An example of when a player wins 🏁
-![Game winner](https://github.com/OlehRiznychuk/Pig-Game/blob/main/PigGame/game%20winner.png)
+![Game winner](https://github.com/OlehRiznychuk/PigGame/blob/main/game%20winner.png)
