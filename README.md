@@ -1,4 +1,5 @@
 # Pig-Game 🎲
+Try it yourself [play](https://olehriznychuk.github.io/PigGame/)
 
 ## Game Rules 🤓
 - The game involves two players who take turns over multiple rounds.
