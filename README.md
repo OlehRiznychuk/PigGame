@@ -6,7 +6,7 @@
 - A player can decide to "Hold" instead of rolling, which secures their ROUND score by adding it to their GLOBAL score. The turn then passes to the other player.
 - The game continues until a player’s GLOBAL score reaches 100 points, at which point they are declared the winner.
 
-![Gameplay example](https://github.com/OlehRiznychuk/Pig-Game/blob/main/PigGame/game%20design.png)
+![Gameplay example](game design.png)
 
 ## Game Logic 🤔
 "Features that must be implemented"
